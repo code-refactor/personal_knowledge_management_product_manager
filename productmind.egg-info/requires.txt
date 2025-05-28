@@ -1,0 +1,10 @@
+numpy
+scikit-learn
+pandas
+nltk
+pydantic
+
+[test]
+pytest
+pytest-cov
+pytest-json-report

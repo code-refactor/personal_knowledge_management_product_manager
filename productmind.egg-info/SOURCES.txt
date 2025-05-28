@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+productmind/__init__.py
+productmind/models.py
+productmind.egg-info/PKG-INFO
+productmind.egg-info/SOURCES.txt
+productmind.egg-info/dependency_links.txt
+productmind.egg-info/requires.txt
+productmind.egg-info/top_level.txt
